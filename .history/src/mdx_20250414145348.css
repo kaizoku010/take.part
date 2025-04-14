@@ -1,0 +1,53 @@
+/* #hero-text{
+    font-size: medium !important;
+} */
+
+#logo{
+    width: 6rem !important;
+}
+
+#link{
+    font-weight: 500;
+color:rgba(0, 0, 0, 0.658) !important;
+}
+
+
+.bg-green-800{
+    background-color: #ba3629 !important;
+}
+
+.bg-yellow-800{
+    background-color: rgb(254, 177, 0) !important;
+}
+
+.bg-green-900 {
+    color: rgb(54, 53, 53) !important;
+background-color: rgb(185, 183, 183) !important;
+}
+
+
+.text-green-800 {
+    --tw-text-opacity: 1;
+    color: rgb(43 49 45) !important;
+}
+
+
+.text-gray-hound{
+    font-size: small;
+    color: rgb(94, 94, 94) !important;
+}
+
+
+#carousel-section{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #feb100 !important;
+}
+
+.bg-background {
+    background-color: #212120 !important;
+}
+
+.prizes-section{
+    background-image: url("../src/");
+}

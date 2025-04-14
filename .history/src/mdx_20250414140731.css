@@ -1,0 +1,12 @@
+/* #hero-text{
+    font-size: medium !important;
+} */
+
+#logo{
+    width: 6rem !important;
+}
+
+#link{
+    font-weight: 400;
+color:rgba(0, 0, 0, 0.658) !important;
+}

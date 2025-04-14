@@ -1,0 +1,31 @@
+/* #hero-text{
+    font-size: medium !important;
+} */
+
+#logo{
+    width: 6rem !important;
+}
+
+#link{
+    font-weight: 500;
+color:rgba(0, 0, 0, 0.658) !important;
+}
+
+
+.bg-green-800{
+    background-color: #ba3629 !important;
+}
+
+.bg-yellow-800{
+    background-color: rgb(254, 177, 0) !important;
+}
+
+.bg-green-900 {
+background-color: gray !important;
+}
+
+
+.text-green-800 {
+    --tw-text-opacity: 1;
+    color: rgb(43 49 45) !important;
+}
