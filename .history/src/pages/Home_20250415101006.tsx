@@ -98,32 +98,15 @@ const Home = () => {
             Pearl of Africa
           </p>
           <div id="bree-btn" className="flex flex-col sm:flex-row gap-4 justify-center">
-          <a
+            <a
               href="https://x.com/TellYourStoryUg/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Button
-                id="take-part-btn"
+              id="take-part"
                 size="lg"
                 className="bg-yellow-dx hover:bg-yellow-600 text-black"
-                onClick={() => {
-                  // Twitter conversion tracking
-                  if (window.twq) {
-                    window.twq('event', 'tw-piuas-piuat', {
-                      contents: [{
-                        content_type: 'button_click',
-                        content_id: 'take-part-btn',
-                        content_name: 'Take Part Button',
-                        content_price: null,
-                        num_items: 1,
-                        content_group_id: 'conversion'
-                      }],
-                      email_address: null,
-                      phone_number: null
-                    });
-                  }
-                }}
               >
                 <div className="flex items-center gap-2">
                   {/* <Camera size={20} /> */}

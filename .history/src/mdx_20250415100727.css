@@ -133,16 +133,14 @@ background-color: #ba3629 !important;
     background-color: transparent;
 }
 
-#vist-ug:hover{
-    background-color: #ba3629;
-}
-
-
-#take-part-btn:hover{
+#vist-ug{
     background-color: #ba3629 !important;
-    color: white !important;
 }
 
+
+#vist-ug:hover{
+    background-color: transparent !important;
+}
 
 
 #footer {
